@@ -1,0 +1,39 @@
+B001  Espresso Doble    Un espresso intenso con una mezcla de Café Arábica y Robusta para un sabor equilibrado y fuerte  C  1   2.5   120
+
+B002  Café Latte    Suave y cremoso elaborado con una mezcla de cafés y leche vaporizada para una textura delicada  C  1   3.2   150
+
+B003  Cappuccino Clásico    Clásico cappuccino con una perfecta proporción de espresso leche espumosa y un toque de cacao  C  1   3   140
+
+B004  Americano    Un café Robusta diluido ofreciendo un sabor fuerte pero menos concentrado  C  1   2   130
+
+B005  Mocha de Chocolate Oscuro    Una deliciosa combinación de espresso y chocolate oscuro coronado con crema batida  H  1   3.8   100
+
+B006  Chocolate Caliente Cremoso    Chocolate caliente espeso con un toque cremoso ideal para los días fríos  H  1   4   110
+
+B007  Té Verde Matcha    Té verde matcha en polvo con un sabor terroso y ligeramente dulce  T  1   2.7   90
+
+B008  Té Negro Earl Grey    Té negro de alta calidad con el aroma cítrico del aceite de bergamota  T  1   2.5   85
+
+B009  Infusión de Manzanilla    Suave infusión de flores de manzanilla perfecta para relajarse  I  1   2.2   60
+
+B010  Infusión de Lavanda    Relajante infusión de lavanda seca ideal para calmar los sentidos  I  1   2.5   50
+
+B011  Café con Leche Descremada    Café suave con leche descremada para un sabor ligero pero satisfactorio  C  1   3   115
+
+B012  Café Cold Brew    Café infusionado en frío con un sabor suave y menos ácido  C  1   3.5   95
+
+B013  Té Rooibos Vainilla    Infusión de rooibos con un toque de vainilla naturalmente dulce y sin cafeína  T  1   2.6   70
+
+B014  Chai Latte    Mezcla especiada de té negro leche vaporizada y especias como canela y cardamomo  T  1   3.2   75
+
+B015  Té de Jengibre con Miel    Infusión picante de jengibre fresco y miel de abeja para calentar el cuerpo  I  1   2.8   65
+
+B016  Chocolate con Canela    Delicioso chocolate caliente con un toque de canela molida  H  1   3.9   80
+
+B017  Infusión de Jengibre y Nuez Moscada    Infusión exótica de jengibre fresco y nuez moscada para un sabor cálido y especiado  I  1   3.1   55
+
+B018  Latte de Almendra y Vainilla    Café latte con leche de almendra y un toque de vainilla líquida perfecto para intolerantes a la lactosa  C  1   3.6   90
+
+B019  Té Verde con Jengibre y Miel    Fusión de té verde con jengibre fresco y un toque de miel para una combinación refrescante y cálida  T  1   3   60
+
+B020  Chocolate Blanco Caliente    Dulce y cremoso chocolate blanco caliente una indulgencia suave  H  1   4.2   70

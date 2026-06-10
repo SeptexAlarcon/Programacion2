@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/Prog2/PunterosVoid/Lab4_2024_2/cmake-build-debug/CMakeFiles/Lab4_2024_2.dir
+C:/Users/ASUS/CLionProjects/Prog2/PunterosVoid/Lab4_2024_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/Prog2/PunterosVoid/Lab4_2024_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
